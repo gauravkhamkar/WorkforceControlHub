@@ -1,0 +1,50 @@
+.loginPage{
+    background: url('/Images/back3.png');
+    background: linear-gradient(rgba(11,11,11,0.5),rgba(10,10,10,0.5),url("/Images/back3.png"));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+
+}
+.dashBoard{
+    background: url('/Images/back4.jpg');
+}
+
+.loginForm{
+    background: url('/Images/back3.png');
+    /* background-color: rgba(1, 85, 93, 0.748); */
+    color:black
+}
+
+
+ul li :hover{
+    background-color: gray;
+}
+
+.employee_image{
+    width: 40px;
+    height: 40px;
+    border-radius: 50% ;
+}
+
+.employeeform{
+    background: url('/Images/back2.jpj');
+}
+
+.custom-rounded-table {
+    border-radius: 10px; /* You can adjust the radius according to your preference */
+    overflow: hidden; /* Ensures the rounded corners are visible */
+}
+
+
+.table-hover tbody tr:hover {
+    background-color: #f5f5f5; /* Change the background color as needed */
+    transition: background-color 0.1s ease; /* Adjust the transition duration and timing function */
+}
+/* .adminblock{
+    background: url('/Images/back4.jpg');
+} */
+
+.employeedetail{
+    background: url('/Images/back3.png');
+}
